@@ -1,7 +1,7 @@
 @echo off
 cls
-echo ìƒˆí‹°ìŠ¤íŒ©í† ë¦¬ ì„¸ì´ë¸ŒíŒŒì¼ ì°¾ê¸°ìš©ì…ë‹ˆë‹¤
-echo ì„¸ì´ë¸Œ íŒŒì¼ ê°€ì§€ê³  ë§µì„ ë³¼ ìˆ˜ ìˆë„ë¡ ë§í¬ ê±¸ì–´ ë‚¬ìŠµë‹ˆë‹¤...(ë‚˜ì¤‘ì— ìˆ˜ì •)
+echo »õÆ¼½ºÆÑÅä¸® ¼¼ÀÌºêÆÄÀÏ Ã£±â¿ëÀÔ´Ï´Ù
+echo ¼¼ÀÌºê ÆÄÀÏ °¡Áö°í ¸ÊÀ» º¼ ¼ö ÀÖµµ·Ï ¸µÅ© °É¾î ³µ½À´Ï´Ù...(³ªÁß¿¡ ¼öÁ¤)
 explorer "%AppData%\..\Local\FactoryGame\Saved\SaveGames\"
 explorer "https://satisfactory-calculator.com/en/interactive-map#2;50302;0|gameLayer|limestonePure;ironPure;copperPure;cateriumPure;coalPure;oilPure;hardDrives"
 pause
